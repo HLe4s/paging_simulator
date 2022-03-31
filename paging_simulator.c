@@ -305,8 +305,7 @@ int main(void)
 
 	while ( 1 )
 	{
-		system("clear");
-		printf("---------- Memory Paging simulator -----------\n");
+		printf("\n\n\n---------- Memory Paging simulator -----------\n");
 		printf("1. cr3 setting\n");
 		printf("2. page table's setting\n");
 		printf("3. read from arbitrary address\n");
