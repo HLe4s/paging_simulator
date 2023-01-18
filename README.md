@@ -19,6 +19,11 @@ about this project..
 처음에는 정말 대충 만드려고 시작한거라. Makefile이나 파일 나누는데에 신경을 안썻다.
 GPL 라이선스니까. 어라 이거 정말 괜찮은 걸? 싶은 고수가 있다면, 가져다 보완해주길 바란다.
 
+2022 / 01 / 18
+업데이트 안하는 중.
+사실 이 프로그램에 사실과 다른 부분이 많은 걸 알았지만, 귀찮아서 안고치고 있다. 
+간단한 아이디어만 얻어가길 권한다.
+
 [en]
 practice to understanding paging ~ !!
 I made this program to study about paging more detail.
